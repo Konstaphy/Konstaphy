@@ -7,7 +7,7 @@
 
 ### Also know Python, Java, C++, C#, Pascal at a basic level.
 
-###Links to my social-networks:
+### Links to my social-networks:
 
 #### Instagram - https://www.instagram.com/konstaphy/
 #### VKontakte - https://vk.com/konstaphy
