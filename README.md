@@ -11,4 +11,4 @@
 ### Links to my social-networks:
 
 #### Instagram - https://www.instagram.com/konstaphy/
-#### VKontakte - https://vk.com/konstaphy
+#### VKontakte - https://vk.com/konstaph
