@@ -12,4 +12,5 @@
 
 Instagram - https://www.instagram.com/konstaphy/ <br>
 LinkedIn - https://www.linkedin.com/in/konstantine-fedotovskih-213b34220/ <br>
+Facebook - https://www.facebook.com/profile.php?id=100072760375665 <br>
 VKontakte - https://vk.com/konstaphy
