@@ -10,6 +10,6 @@
 
 ### Links to my social-networks:
 
-Instagram - https://www.instagram.com/konstaphy/
-LinkedIn - https://www.linkedin.com/in/konstantine-fedotovskih-213b34220/
+Instagram - https://www.instagram.com/konstaphy/ <br>
+LinkedIn - https://www.linkedin.com/in/konstantine-fedotovskih-213b34220/ <br>
 VKontakte - https://vk.com/konstaphy
