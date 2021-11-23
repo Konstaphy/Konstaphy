@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Junior Full-stack JavaScript developer
+#Junior Full-stack JavaScript developer
 
 ### Currently working for Altec Systems
 
