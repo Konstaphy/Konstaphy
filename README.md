@@ -4,7 +4,7 @@
 
 ### Currently working for Altec Systems
 
-MetaLamp: 09/21 -> 11/21 </br>
+MetaLamp internship: 09/21 -> 11/21 </br>
 Altec Systems: 11/21 -> present
 ### For a long time worked on my projects with Typescript, React (class & func), Redux, React-router-dom, webpack, pug, SCSS, styled-components.
 ### Had experience with express, postgreSQL, MongoDB, common NPM packages on backend.
