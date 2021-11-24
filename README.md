@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-# Junior Full-stack JavaScript developer
+# Junior Frontend JavaScript developer
 
 ### Currently working for Altec Systems
 
 MetaLamp: 09/21 -> 11/21 </br>
 Altec Systems: 11/21 -> present
-### For a long time worked on my projects with React, Redux, React-router-dom, webpack, pug, typescript, SASS, styled-components, axios as main way to make http requests as a Front-end developer.
-### Worked with express, postgreSQL, MongoDB, common NPM packages as cors, cookie-parser, nodemon, dotenv, pg, mongoose, JWT as a Backend developer.
+### For a long time worked on my projects with React, Redux, React-router-dom, webpack, pug, typescript, SCSS, styled-components, axios as a main way to make http requests.
+### Had experience with express, postgreSQL, MongoDB, common NPM packages on backend.
 
-### Also know Python, Java, C++, C#, Pascal at a basic level.
+### Know Python, Java, C++, C#, Pascal at a basic level.
 
-### Links to my social-networks:
+### Contact me:
 
 Instagram - https://www.instagram.com/konstaphy/ <br>
 LinkedIn - https://www.linkedin.com/in/konstantine-fedotovskih-213b34220/ <br>
