@@ -4,8 +4,8 @@
 
 ### Currently working for Altec Systems
 
-### MetaLamp: 09/21 -> 11/21
-### Altec Systems: 11/21 -> present
+MetaLamp: 09/21 -> 11/21
+Altec Systems: 11/21 -> present
 ### For a long time worked on my projects with React, React-router-dom, webpack, pug, typescript, SASS, styled-components, axios as main way to make http requests as a Front-end developer.
 ### Worked with express, postgreSQL, MongoDB, common NPM packages as cors, cookie-parser, nodemon, dotenv, pg, mongoose, JWT as a Backend developer.
 
