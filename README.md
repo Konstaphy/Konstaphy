@@ -1,19 +1,33 @@
-## Hi there 👋
+#
+# Junior JavaScript/TypeScript developer
+### 👋 Hello there, my name is Konstantine Fedotovskih, currently working as a frontend developer in Altec Systems, Yekaterinburg
+📍 **I'm from Perm, Russia**</br>
+🧠 **Started my own path in WEB in 2019**</br>
+🕸️**4 month of real Frontend experience**</br>
+📌 **Currently located in Yekaterinburg, Russia**</br>
 
-# Junior Frontend JavaScript/TypeScript developer
+### Stack:
+*Frontend:*
 
-### Currently working for Altec Systems
+> **React⚛️ (class, func)** + *TypeScript*, Redux, MobX, SCSS, WebPack, Styled-Components etc.
 
-MetaLamp internship: 09/21 -> 11/21 </br>
-Altec Systems: 11/21 -> present
-### For a long time worked on my projects with Typescript, React (class & func), Redux, React-router-dom, webpack, pug, SCSS, styled-components.
-### Had experience with express, postgreSQL, MongoDB, common NPM packages on backend.
+*Backend:*
 
-### Know Python, Java, C++, C#, Pascal at a basic level.
+> **Node (express.js)** + *TypeScript*, PostgreSQL, MongoDB, Rest API, SQL etc.
 
-### Contact me:
+*Soft Skills:*
 
-Instagram - https://www.instagram.com/konstaphy/ <br>
-LinkedIn - https://www.linkedin.com/in/konstantine-fedotovskih-213b34220/ <br>
-Facebook - https://www.facebook.com/profile.php?id=100072760375665 <br>
-VKontakte - https://vk.com/konstaphy
+> Benevolence, Scrum, SOLID principles, **English language (B2)**, easy-going, aspiration to self-developing
+
+***And I'm really interested in enhancing that list***
+##
+**Making web-applications for you**</br>
+</br>
+*Contact me on [*Telegram*](https://t.me/Konstaphy)</br>
+Price depends on *project size**</br>
+##
+### You can find me here: </br>
+- [*VK*](https://vk.com/konstaphy) </br>
+- [*Instagram*](https://www.instagram.com/konstaphy/) </br>
+- [*Telegram*](https://t.me/Konstaphy) </br>
+- [*FaceBook*](https://www.facebook.com/profile.php?id=100072760375665) </br>
