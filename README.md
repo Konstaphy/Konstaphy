@@ -8,7 +8,7 @@
 
 ### Stack:
 
-#### My current stack can be found here: https://github.com/users/Konstaphy/projects/3
+#### My current stack can be found here: [*Current tech-stack*](https://github.com/users/Konstaphy/projects/3)
 
 *Frontend:*
 
