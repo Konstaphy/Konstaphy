@@ -28,7 +28,7 @@
 
 ***And I'm really interested in enhancing that list***
 ##
-**Making web-applications for you**</br>
+**Making/reviewing web-applications for you**</br>
 </br>
 *Contact me on [*Telegram*](https://t.me/Konstaphy)</br>
 Price depends on *project size**</br>
