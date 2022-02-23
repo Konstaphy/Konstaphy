@@ -11,6 +11,7 @@
 * Frontend => Figma interpretation
 * TDD => begin with the tests
 * Make the milestones and issues connected to them
+* Organise the GitHub actions and ghcr.io if needed 
 * Start coding
 
 ## **JavaScript && TypeScript:**
