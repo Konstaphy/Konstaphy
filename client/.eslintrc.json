@@ -1,25 +1,28 @@
 {
+    "root": true,
     "env": {
         "browser": true,
-        "es2021": true
+        "node": true
     },
-    "extends": [
-        "plugin:react/recommended",
-        "google",
-        "prettier"
-    ],
     "parser": "@typescript-eslint/parser",
-    "parserOptions": {
-        "ecmaFeatures": {
-            "jsx": true
-        },
-        "ecmaVersion": "latest",
-        "sourceType": "module"
-    },
-    "plugins": [
-        "react",
-        "@typescript-eslint"
-    ],
+    "plugins": ["prettier", "@typescript-eslint"],
+    "extends": ["eslint:recommended", "plugin:@typescript-eslint/eslint-recommended", "plugin:@typescript-eslint/recommended", "plugin:prettier/recommended"],
     "rules": {
+        "prefer-const": "off",
+
+        "prettier/prettier": [
+            "warn", // off, warn or error
+            {
+                "endOfLine": "auto"
+            }
+        ],
+
+        // Allow empty interfaces
+        "@typescript-eslint/no-empty-interface": "off",
+
+        // Allow specifying types for simple objects like number, string, bool
+        "@typescript-eslint/no-inferrable-types": "warn",
+
+        "@typescript-eslint/no-non-null-assertion": "off"
     }
 }
