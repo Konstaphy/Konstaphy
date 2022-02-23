@@ -1,0 +1,18 @@
+{
+  "proseWrap": "never",
+  "useTabs": false,
+  "tabWidth": 2,
+  "printWidth": 120,
+  "trailingComma": "es5",
+  "semi": true,
+  "singleQuote": false,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": ["*.tsx", "*.jsx"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.header {
+  border-bottom: 1px solid #00000020;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+  .header__logo{
+    text-shadow: black -1.5px 0 0, black 1.5px 0 0;
+  }
+  .header__links{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    >li{
+      cursor: pointer;
+      transition: .3s ease-in;
+      &:hover{
+        transition: .3s ease-in;
+        text-shadow: black -2px 0 0, black 2px 0 0;
+      }
+    }
+  }
+}
