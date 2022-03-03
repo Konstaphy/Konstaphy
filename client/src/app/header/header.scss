@@ -4,6 +4,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 0 100px;
+  user-select: none;
   .header__logo{
     text-shadow: black -1.5px 0 0, black 1.5px 0 0;
   }

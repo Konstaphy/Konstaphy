@@ -1,4 +1,13 @@
 .content{
   background-color: #f3f3f3;
   overflow: auto;
+  padding: 0 80px;
+  height: 100%;
+
+  .content-wrapper{
+    border-right: 1px solid #00000030;
+    border-left: 1px solid #00000030;
+    background-color: #fafafa;
+    height: 100%;
+  }
 }
