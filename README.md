@@ -1,9 +1,9 @@
 #
 # Junior JavaScript/TypeScript developer
-### 👋 Hello there, my name is Konstantine Fedotovskih, currently working as a frontend developer in Altec Systems, Yekaterinburg
+### 👋 Hello there, my name is Konstantine Fedotovskih, currently working as a frontend developer in [*Tochka bank*](https://tochka.com/), Yekaterinburg
 📍 **I'm from Perm, Russia**</br>
 🧠 **Started my own path in WEB in 2019**</br>
-🕸️**6 months of real Frontend experience**</br>
+🕸️**7 months of real Frontend experience**</br>
 📌 **Currently located in Yekaterinburg, Russia**</br>
 
 ### Stack:
