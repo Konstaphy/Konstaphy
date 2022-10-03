@@ -3,7 +3,7 @@
 ### 👋 Hello there, my name is Konstantine Fedotovskih, currently working as a middle frontend developer in </br>[*Tochka bank*](https://tochka.com/), Yekaterinburg
 📍 **I'm from Perm, Russia**</br>
 🧠 **Started my own path in WEB in 2019**</br>
-🕸️**More than 1 year of real Frontend experience**</br>
+🕸️ **More than 1 year of real Frontend experience**</br>
 📌 **Currently based in Yekaterinburg, Russia**</br>
 
 ### Stack:
