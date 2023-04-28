@@ -1,9 +1,9 @@
 #
-# Middle JavaScript/TypeScript developer
+# Middle JavaScript/TypeScript, Python developer
 ### 👋 Hello there, my name is Konstantine Fedotovskih, currently working as a middle frontend developer in [*Tochka bank*](https://tochka.com/), Yekaterinburg
 📍 **I'm from Perm, Russia**</br>
 🧠 **Started my own path in WEB in 2019**</br>
-🕸️ **More than 1 year of real Frontend experience**</br>
+🕸️ **More than 1.5 year of real Frontend experience**</br>
 📌 **Currently based in Yekaterinburg, Russia**</br>
 
 ### Stack:
@@ -16,11 +16,11 @@
 
 *Backend:*
 
-> **Node (express.js)** + *TypeScript*, PostgreSQL, Rest API, SQL, DevOps experience etc.
+> **Python**, **Flask**, **FastAPI**, **Node (express.js)** + *TypeScript*, PostgreSQL, Rest API, SQL, DevOps experience etc.
 
 *Base knowledge and ready to use:*
 
-> C#, Java, Python, C++ etc.
+> C#, Java, C++ etc.
 
 *Soft Skills:*
 
