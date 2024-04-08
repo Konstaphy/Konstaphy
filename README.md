@@ -1,5 +1,5 @@
 #
-# Middle+ JavaScript/TypeScript engineer, junior Python developer
+# Middle+ JavaScript/TypeScript engineer, junior C# developer, junior Python developer
 ### 👋 Hello there, my name is Konstantine Fedotovskih, currently working as a middle frontend developer in [*Tochka bank*](https://tochka.com/), Yekaterinburg
 📍 **I'm from Perm, Russia**</br>
 🧠 **Started my own path in WEB in 2019**</br>
