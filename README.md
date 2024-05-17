@@ -12,19 +12,19 @@
 
 *Frontend:*
 
-> **React⚛️ (class, func)** + *TypeScript*, Redux, MobX, SCSS, WebPack, AutodeskForge etc.
+> **React⚛️ (class, func)** + *TypeScript*, Zustand, Redux, MobX, SCSS, WebPack, Vite, AutodeskForge etc.
 
 *Backend:*
 
-> **Python**, **Flask**, **FastAPI**, **Node (express.js)** + *TypeScript*, PostgreSQL, Rest API, SQL, DevOps experience etc.
+> **ASP.Net**, **Python**, **Flask**, **FastAPI**, **Node (express.js)** + *TypeScript*, PostgreSQL, Mongo, SQL, DevOps experience etc.
 
 *Base knowledge and ready to use:*
 
-> C#, Java, C++ etc.
+> Java, C++ etc.
 
 *Soft Skills:*
 
-> Benevolence, Scrum, SOLID principles understanding, **English language (B2)**, easy-going, aspiration to self-developing
+> Benevolence, Scrum, **English language (B2)**, easy-going, aspiration to self-developing
 
 ***And I'm really interested in enhancing that list***
 ##
