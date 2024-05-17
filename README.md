@@ -35,7 +35,4 @@
 Price depends on *project size**</br>
 ##
 ### You can find me here: </br>
-- [*VK*](https://vk.com/konstaphy) </br>
-- [*Instagram*](https://www.instagram.com/konstaphy/) </br>
 - [*Telegram*](https://t.me/Konstaphy) </br>
-- [*FaceBook*](https://www.facebook.com/profile.php?id=100072760375665) </br>
