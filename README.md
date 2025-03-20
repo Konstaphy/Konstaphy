@@ -5,7 +5,7 @@
 🧠 **Started my own path in WEB in 2019**</br>
 🕸️ **More than 3.5 year of pruduction Frontend experience**</br>
 ☁ **More than 1.5 year of freelance/individual-entrepreneur Backend experience**</br>
-📌 **Currently based in Yekaterinburg, Russia**</br>
+📌 **Currently based in Perm, Russia**</br>
 
 ### Stack:
 
