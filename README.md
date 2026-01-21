@@ -31,8 +31,8 @@
 ##
 **Making/reviewing web-applications for you**</br>
 </br>
-*Contact me on [*Telegram*](https://t.me/Konstaphy)</br>
+*Contact me on [*Telegram*](https://t.me/kkkonsss)</br>
 Price depends on *project size**</br>
 ##
 ### You can find me here: </br>
-- [*Telegram*](https://t.me/Konstaphy) </br>
+- [*Telegram*](https://t.me/kkkonsss) </br>
