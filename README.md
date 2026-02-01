@@ -8,9 +8,6 @@
 📌 **Currently based in Perm, Russia**</br>
 
 ### Stack:
-
-#### My current stack can be found here: [*Current tech-stack*](https://github.com/users/Konstaphy/projects/7)
-
 *Frontend:*
 
 > **React⚛️ (class, func)** + *TypeScript*, Zustand, Redux, MobX, SCSS, WebPack, Vite, AutodeskForge etc.
